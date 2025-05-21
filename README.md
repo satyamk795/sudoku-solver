@@ -14,3 +14,5 @@ A simple and interactive Sudoku solver built with Python's Tkinter GUI library.
 - Tkinter GUI
 
 ![Sudoku GUI Screenshot](screenshots/sudoku_solver1.png)
+![Sudoku GUI Screenshot](screenshots/sudoku_solver2.png)
+![Sudoku GUI Screenshot](screenshots/sudoku_solver3.png)
